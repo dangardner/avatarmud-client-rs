@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 description = "A client for Avatar MUD (avatar.outland.org:3000)"
 license = "MIT OR Apache-2.0"
+repository = "https://github.com/dangardner/avatarmud-client-rs"
 
 [badges]
 maintenance = { status = "experimental" }
