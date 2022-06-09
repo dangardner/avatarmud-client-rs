@@ -1,0 +1,14 @@
+[package]
+name = "avatarmud-client"
+version = "0.1.0"
+edition = "2021"
+description = "A client for Avatar MUD (avatar.outland.org:3000)"
+license = "MIT OR Apache-2.0"
+
+[badges]
+maintenance = { status = "experimental" }
+
+[dependencies]
+telnet = "^0.2"
+nonblock = "^0.1"
+termios = "^0.3"
